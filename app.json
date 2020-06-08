@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index",
+    "pages/map/index",
+    "pages/map/details",
+    "pages/map/polyline",
+    "pages/map/search",
+    "pages/web-views/web-views"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "请允许校园导览小程序访问您的位置信息进行路线规划"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#079df2",
+    "navigationBarTitleText": "校园导览",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
